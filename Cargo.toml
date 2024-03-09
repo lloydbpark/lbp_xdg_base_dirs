@@ -1,0 +1,12 @@
+[package]
+name = "lbp_xdg_base_dirs"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "A simple XDG library to help retrieve cache, config, data, and Runtime file names"
+repository = "https://github.com/yaahc/color-eyre"
+readme = "README.md"
+
+[dependencies]
+# Helps with handling errors
+color-eyre = "0.6.2"
